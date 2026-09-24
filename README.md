@@ -4,7 +4,7 @@ A responsive product management dashboard built as a React Developer assignment 
 
 ## Live Demo
 
-Coming soon — deployment link will be added here.
+https://product-addmin-dashboard.netlify.app/login
 
 ## GitHub Repository
 
